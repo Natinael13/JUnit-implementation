@@ -5,3 +5,5 @@ Given a code skeleton, implemented own version of JUnit. And extended my impleme
 # What I Gained
 
 * Deeper knowdlege and practice with Reflection
+* Practice with glass box testing and Refactoring
+
